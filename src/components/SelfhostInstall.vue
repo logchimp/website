@@ -20,6 +20,12 @@ export default {
 		return {
 			products: [
 				{
+					title: "Docker",
+					image: "/images/docs/docker-logo.png",
+					link: "/docs/install/docker",
+					label: "With Docker Compose"
+				},
+				{
 					title: "Install from Source",
 					image: "/images/docs/terminal-logo.png",
 					link: "/docs/install/source",
